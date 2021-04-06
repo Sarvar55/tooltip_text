@@ -10,7 +10,8 @@ body{
     border: 1px solid black;
     padding: 20px;
     margin-right: 70px;
-     background-color: #95afc0;
+    background-color: #95afc0;
+    border-radius: 7px;
 }
 .tooltip{
     position: relative;
